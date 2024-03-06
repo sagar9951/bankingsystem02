@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-06T13:20:48 IST" name="Default suite" finished-at="2024-03-06T13:20:49 IST" duration-ms="334">
+    <groups>
+    </groups>
+    <test started-at="2024-03-06T13:20:48 IST" name="Default test" finished-at="2024-03-06T13:20:49 IST" duration-ms="334">
+      <class name="TestNG.Annotations_Test">
+        <test-method is-config="true" signature="config_BS()[pri:0, instance:TestNG.Annotations_Test@477b4cdf]" started-at="2024-03-06T13:20:48 IST" name="config_BS" finished-at="2024-03-06T13:20:48 IST" duration-ms="56" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- config_BS -->
+        <test-method is-config="true" signature="config_Bt()[pri:0, instance:TestNG.Annotations_Test@477b4cdf]" started-at="2024-03-06T13:20:48 IST" name="config_Bt" finished-at="2024-03-06T13:20:48 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- config_Bt -->
+        <test-method is-config="true" signature="config_BC()[pri:0, instance:TestNG.Annotations_Test@477b4cdf]" started-at="2024-03-06T13:20:48 IST" name="config_BC" finished-at="2024-03-06T13:20:48 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- config_BC -->
+        <test-method is-config="true" signature="config_BC2()[pri:0, instance:TestNG.Annotations_Test@477b4cdf]" started-at="2024-03-06T13:20:48 IST" name="config_BC2" finished-at="2024-03-06T13:20:48 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- config_BC2 -->
+        <test-method is-config="true" signature="config_BM()[pri:0, instance:TestNG.Annotations_Test@477b4cdf]" started-at="2024-03-06T13:20:48 IST" name="config_BM" finished-at="2024-03-06T13:20:48 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- config_BM -->
+        <test-method signature="config_T()[pri:0, instance:TestNG.Annotations_Test@477b4cdf]" started-at="2024-03-06T13:20:48 IST" name="config_T" finished-at="2024-03-06T13:20:48 IST" duration-ms="40" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- config_T -->
+        <test-method is-config="true" signature="config_AM()[pri:0, instance:TestNG.Annotations_Test@477b4cdf]" started-at="2024-03-06T13:20:48 IST" name="config_AM" finished-at="2024-03-06T13:20:48 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- config_AM -->
+        <test-method is-config="true" signature="config_AM2()[pri:0, instance:TestNG.Annotations_Test@477b4cdf]" started-at="2024-03-06T13:20:49 IST" name="config_AM2" finished-at="2024-03-06T13:20:49 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- config_AM2 -->
+        <test-method is-config="true" signature="config_BM()[pri:0, instance:TestNG.Annotations_Test@477b4cdf]" started-at="2024-03-06T13:20:49 IST" name="config_BM" finished-at="2024-03-06T13:20:49 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- config_BM -->
+        <test-method signature="config_T2()[pri:0, instance:TestNG.Annotations_Test@477b4cdf]" started-at="2024-03-06T13:20:49 IST" name="config_T2" finished-at="2024-03-06T13:20:49 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- config_T2 -->
+        <test-method is-config="true" signature="config_AM()[pri:0, instance:TestNG.Annotations_Test@477b4cdf]" started-at="2024-03-06T13:20:49 IST" name="config_AM" finished-at="2024-03-06T13:20:49 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- config_AM -->
+        <test-method is-config="true" signature="config_AM2()[pri:0, instance:TestNG.Annotations_Test@477b4cdf]" started-at="2024-03-06T13:20:49 IST" name="config_AM2" finished-at="2024-03-06T13:20:49 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- config_AM2 -->
+        <test-method is-config="true" signature="config_AC()[pri:0, instance:TestNG.Annotations_Test@477b4cdf]" started-at="2024-03-06T13:20:49 IST" name="config_AC" finished-at="2024-03-06T13:20:49 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- config_AC -->
+        <test-method is-config="true" signature="config_At()[pri:0, instance:TestNG.Annotations_Test@477b4cdf]" started-at="2024-03-06T13:20:49 IST" name="config_At" finished-at="2024-03-06T13:20:49 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- config_At -->
+        <test-method is-config="true" signature="config_AS()[pri:0, instance:TestNG.Annotations_Test@477b4cdf]" started-at="2024-03-06T13:20:49 IST" name="config_AS" finished-at="2024-03-06T13:20:49 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- config_AS -->
+      </class> <!-- TestNG.Annotations_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
